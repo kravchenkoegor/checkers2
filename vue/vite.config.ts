@@ -27,7 +27,8 @@ export default defineConfig({
       'crypto-js',
       'axios',
       'qrcode',
-      '@cosmjs/encoding'
+      '@cosmjs/encoding',
+      'long'
     ]
   }
 })

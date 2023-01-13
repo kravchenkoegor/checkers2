@@ -23,3 +23,5 @@ npm run build
 ### Customize configuration
 
 See the Vue CLI [Configuration Reference](https://cli.vuejs.org/config/) documentation.
+
+PATH=$PATH:$(go env GOPATH)/bin
